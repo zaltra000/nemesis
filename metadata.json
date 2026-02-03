@@ -1,0 +1,7 @@
+{
+  "name": "Nemesis",
+  "description": "Unfiltered processing core Model-N.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
